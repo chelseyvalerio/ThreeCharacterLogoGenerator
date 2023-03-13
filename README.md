@@ -42,7 +42,7 @@ run test
 
 ## Video Demonstration 
 
-[Click to preview app](https://watch.screencastify.com/v/RVdcRSKGtkNBMSFv7zuz)
+[Click to preview app](https://drive.google.com/file/d/1muOg1-D9ax6mvKE9BjsS7coskybHkZQs/view?usp=sharing)
  
 ## Questions
 
